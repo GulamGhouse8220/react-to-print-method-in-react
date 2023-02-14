@@ -1,1 +1,1 @@
- React App [Live Link](https://cosmic-druid-386961.netlify.app/).
+ React App [Live Demo](https://cosmic-druid-386961.netlify.app/).
